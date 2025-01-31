@@ -163,11 +163,8 @@
         <mxCell id="roZNkjC4P9ASNq0moOIY-46" value="0,M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="150" y="220" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="roZNkjC4P9ASNq0moOIY-47" value="0,M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="480" y="245" width="60" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="roZNkjC4P9ASNq0moOIY-53" value="0,1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="200" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="roZNkjC4P9ASNq0moOIY-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=-0.091;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -549,6 +546,12 @@
           <mxGeometry x="350" y="425" width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="glYzU09OuYiZTrMRzOZW-6" value="0,M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="650" y="500" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="glYzU09OuYiZTrMRzOZW-7" value="0,M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="497.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
