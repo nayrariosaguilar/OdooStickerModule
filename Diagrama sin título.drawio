@@ -571,7 +571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D56FPXc75yPnmH7_a2OU" name="Página-2">
-    <mxGraphModel dx="1831" dy="1546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3114" dy="1548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1033,6 +1033,13 @@
         </mxCell>
         <mxCell id="NxWRwqbI172U7OGO03fO-169" value="Volver a la pantalla principal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="702" y="718" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxWRwqbI172U7OGO03fO-177" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.581;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="NxWRwqbI172U7OGO03fO-5" target="NxWRwqbI172U7OGO03fO-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="369" y="13" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
